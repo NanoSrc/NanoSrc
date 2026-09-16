@@ -8,7 +8,7 @@
   <br>
   <sub>Or use my mail for contact.</sub>
   
-  <sup><sub>(Won't happen)</sub></sup>
+  <sup><sub>(New user, that might be why the visitor count is low)</sub></sup>
 </div>
 <hr>
 
