@@ -132,6 +132,35 @@
 </a>
 <a href="https://proton.me/">
   <img src="https://img.shields.io/badge/Proton-6D4AFF?style=for-the-badge&logo=proton&logoColor=white"/>
+</a> 
+
+---
+
+### Infrastructure & Networking
+
+<a href="https://www.proxmox.com/">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+</a>
+
+<a href="https://ui.com/">
+  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
+</a>
+
+<a href="https://www.raspberrypi.com/">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+</a>
+
+
+<a href="https://en.wikipedia.org/wiki/IEEE_802.1Q">
+  <img src="https://img.shields.io/badge/VLANs-802.1Q-0066CC?style=for-the-badge"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/10_Gigabit_Ethernet">
+  <img src="https://img.shields.io/badge/10%20GbE-SFP%2B-009999?style=for-the-badge"/>
+</a>
+
+<a href="https://www.dell.com/en-us/lp/servers">
+  <img src="https://img.shields.io/badge/Enterprise%20Servers-Troubleshooting-555555?style=for-the-badge"/>
 </a>
 
 ---
@@ -236,9 +265,6 @@
       <a href="https://aws.amazon.com/">
         <img src="https://img.shields.io/badge/Aws-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEwMDAgMTAwMCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTAwMCAxMDAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO2ZpbGw6I0Y4OTkxRDt9Cjwvc3R5bGU+CjxnPgoJPHBhdGggaWQ9InBhdGg4XzFfIiBjbGFzcz0ic3QwIiBkPSJNNzc0LjYsNDkyLjNjLTc0LjQsNTQuOC0xODIuNCw4NC4yLTI3NS4zLDg0LjJjLTEzMC4zLDAtMjQ3LjUtNDguMy0zMzYuNC0xMjguMyAgIGMtNi45LTYuNC0wLjctMTQuOSw3LjYtMTBjOTUuOCw1NS43LDIxNC4xLDg5LjMsMzM2LjQsODkuM2M4Mi42LDAsMTczLjMtMTcuMSwyNTYuNy01Mi40Qzc3Ni40LDQ2OS43LDc4Nyw0ODMuMyw3NzQuNiw0OTIuMyIvPgoJPHBhdGggaWQ9InBhdGgxMF8xXyIgY2xhc3M9InN0MCIgZD0iTTgwNS43LDQ1N2MtOS40LTEyLjItNjMtNS44LTg2LjktMi45Yy03LjMsMC45LTguMy01LjQtMS44LTEwICAgYzQyLjYtMjkuOSwxMTIuMy0yMS4yLDEyMC41LTExLjJjOC4yLDEwLjItMi4yLDgwLTQyLjEsMTEzLjZjLTYuMiw1LjEtMTIsMi40LTkuMy00LjRDNzk0LjksNTE5LjQsODE1LjEsNDY5LjEsODA1LjcsNDU3Ii8+CjwvZz4KPC9zdmc+&logoColor=white"/>
       </a>
-</div>
 
 <hr>
-
-
 
