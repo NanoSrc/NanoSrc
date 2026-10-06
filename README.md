@@ -140,7 +140,7 @@
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
 <div align="center">
 
@@ -148,14 +148,16 @@
 
 A hands-on personal homelab for networking, virtualization, servers, storage, automation, monitoring, IoT, self-hosted software, and custom development, built around real hardware in an ever-evolving home infrastructure environment.
 
+<br>
 
-<table width="100%">
+<table>
 <tr>
-<td align="center" width="22%"><strong>Infrastructure</strong></td>
+<td align="center"><strong>Infrastructure</strong></td>
 <td align="center">
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/VLANs-802.1Q-0066CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/10%20GbE-SFP%2B-009999?style=for-the-badge"/>
@@ -168,6 +170,7 @@ A hands-on personal homelab for networking, virtualization, servers, storage, au
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue"/>
+  <br>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -177,8 +180,8 @@ A hands-on personal homelab for networking, virtualization, servers, storage, au
 
 <br>
 
-
-<strong>Networking • Servers • Virtualization • Self-hosting • IoT • Automation • Custom Software</strong>
+<strong>Networking • Servers • Virtualization • Self-hosting<br>
+IoT • Automation • Custom Software</strong>
 
 <br><br>
 
@@ -186,10 +189,10 @@ A hands-on personal homelab for networking, virtualization, servers, storage, au
   <img src="https://img.shields.io/badge/Explore%20the%20Homelab-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</div>
 
 </td>
 </tr>
 </table>
-</table>
-</div>
+
 <hr>
