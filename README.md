@@ -181,13 +181,20 @@ A hands-on personal homelab for networking, virtualization, servers, storage, au
 <br>
 
 <strong>Networking • Servers • Virtualization • Self-hosting<br>
-IoT • Automation • Custom Software</strong>
+IoT • Automation • Custom Software</strong>  
 
-<br><br>
 
-<a href="https://github.com/NanoSrc/Homelab">
-  <img src="https://img.shields.io/badge/Explore%20the%20Homelab-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<table align="center">
+  <tr>
+    <td style="border:1px solid white; padding:1px;">
+      <a href="https://github.com/NanoSrc/Homelab">
+        <img src="https://img.shields.io/badge/Explore%20the%20Homelab-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 </div>
 
