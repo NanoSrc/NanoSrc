@@ -12,6 +12,12 @@
 </div>
 <hr>
 
+<p align="center">
+  <img src="https://cataas.com/cat?width=300&cachebust=1" alt="Random cat" width="300" />
+</p>
+
+<hr>
+
 <h1 align="center">Skills <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"/></h1>
 
 <table align="center">
