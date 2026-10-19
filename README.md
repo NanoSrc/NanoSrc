@@ -10,11 +10,6 @@
   
   <sup><sub>(New user, that might be why the visitor count is low)</sub></sup>
 </div>
-<hr>
-
-<p align="center">
-  <img src="https://cataas.com/cat?width=300&cachebust=1" alt="Random cat" width="300" />
-</p>
 
 <hr>
 
